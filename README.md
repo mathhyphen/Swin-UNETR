@@ -15,3 +15,7 @@
 ### test_swin_unetr.py
 
 测试相应的模型
+
+## 需要安装的库
+monai
+nibabel

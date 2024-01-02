@@ -26,11 +26,10 @@ from functools import partial
 
 import torch
 
-
 print_config()
 
 directory = os.environ.get("MONAI_DATA_DIRECTORY")
-root_dir = "/mnt/data/wanghaifeng/GenerativeModels-main/log/" if directory is None else directory
+root_dir = "/mnt/data/wanghaifeng/GenerativeModels-main/log/"
 print(root_dir)
 
 class AverageMeter(object):
@@ -49,7 +48,6 @@ class AverageMeter(object):
         self.count += n
         self.avg = np.where(self.count > 0, self.sum / self.count, self.sum)
 
-
 def datafold_read(datalist, basedir, fold=0, key="training"):
     with open(datalist) as f:
         json_data = json.load(f)
@@ -62,7 +60,6 @@ def datafold_read(datalist, basedir, fold=0, key="training"):
                 d[k] = [os.path.join(basedir, iv) for iv in d[k]]
             elif isinstance(d[k], str):
                 d[k] = os.path.join(basedir, d[k]) if len(d[k]) > 0 else d[k]
-
     tr = []
     val = []
     for d in json_data:
@@ -70,7 +67,7 @@ def datafold_read(datalist, basedir, fold=0, key="training"):
             val.append(d)
         else:
             tr.append(d)
-
+            
     return tr, val
 
 

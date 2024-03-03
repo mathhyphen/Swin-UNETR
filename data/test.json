@@ -1,0 +1,913 @@
+{
+    "t1_t2_flair_data": [
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_094/SRI_Sub_094-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_094/SRI_Sub_094-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_094/SRI_Sub_094-flair.nii.gz"
+            ],
+            "name": "Sub_094"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_109/SRI_Sub_109-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_109/SRI_Sub_109-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_109/SRI_Sub_109-flair.nii.gz"
+            ],
+            "name": "Sub_109"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_037/SRI_Sub_037-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_037/SRI_Sub_037-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_037/SRI_Sub_037-flair.nii.gz"
+            ],
+            "name": "Sub_037"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_057/SRI_Sub_057-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_057/SRI_Sub_057-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_057/SRI_Sub_057-flair.nii.gz"
+            ],
+            "name": "Sub_057"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_110/SRI_Sub_110-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_110/SRI_Sub_110-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_110/SRI_Sub_110-flair.nii.gz"
+            ],
+            "name": "Sub_110"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_023/SRI_Sub_023-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_023/SRI_Sub_023-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_023/SRI_Sub_023-flair.nii.gz"
+            ],
+            "name": "Sub_023"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_031/SRI_Sub_031-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_031/SRI_Sub_031-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_031/SRI_Sub_031-flair.nii.gz"
+            ],
+            "name": "Sub_031"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_059/SRI_Sub_059-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_059/SRI_Sub_059-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_059/SRI_Sub_059-flair.nii.gz"
+            ],
+            "name": "Sub_059"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_103/SRI_Sub_103-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_103/SRI_Sub_103-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_103/SRI_Sub_103-flair.nii.gz"
+            ],
+            "name": "Sub_103"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_032/SRI_Sub_032-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_032/SRI_Sub_032-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_032/SRI_Sub_032-flair.nii.gz"
+            ],
+            "name": "Sub_032"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_067/SRI_Sub_067-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_067/SRI_Sub_067-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_067/SRI_Sub_067-flair.nii.gz"
+            ],
+            "name": "Sub_067"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_044/SRI_Sub_044-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_044/SRI_Sub_044-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_044/SRI_Sub_044-flair.nii.gz"
+            ],
+            "name": "Sub_044"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_049/SRI_Sub_049-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_049/SRI_Sub_049-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_049/SRI_Sub_049-flair.nii.gz"
+            ],
+            "name": "Sub_049"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_086/SRI_Sub_086-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_086/SRI_Sub_086-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_086/SRI_Sub_086-flair.nii.gz"
+            ],
+            "name": "Sub_086"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_107/SRI_Sub_107-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_107/SRI_Sub_107-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_107/SRI_Sub_107-flair.nii.gz"
+            ],
+            "name": "Sub_107"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_001/SRI_Sub_001-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_001/SRI_Sub_001-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_001/SRI_Sub_001-flair.nii.gz"
+            ],
+            "name": "Sub_001"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_043/SRI_Sub_043-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_043/SRI_Sub_043-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_043/SRI_Sub_043-flair.nii.gz"
+            ],
+            "name": "Sub_043"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_042/SRI_Sub_042-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_042/SRI_Sub_042-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_042/SRI_Sub_042-flair.nii.gz"
+            ],
+            "name": "Sub_042"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_061/SRI_Sub_061-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_061/SRI_Sub_061-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_061/SRI_Sub_061-flair.nii.gz"
+            ],
+            "name": "Sub_061"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_115/SRI_Sub_115-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_115/SRI_Sub_115-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_115/SRI_Sub_115-flair.nii.gz"
+            ],
+            "name": "Sub_115"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_116/SRI_Sub_116-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_116/SRI_Sub_116-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_116/SRI_Sub_116-flair.nii.gz"
+            ],
+            "name": "Sub_116"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_033/SRI_Sub_033-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_033/SRI_Sub_033-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_033/SRI_Sub_033-flair.nii.gz"
+            ],
+            "name": "Sub_033"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_080/SRI_Sub_080-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_080/SRI_Sub_080-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_080/SRI_Sub_080-flair.nii.gz"
+            ],
+            "name": "Sub_080"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_034/SRI_Sub_034-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_034/SRI_Sub_034-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_034/SRI_Sub_034-flair.nii.gz"
+            ],
+            "name": "Sub_034"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_091/SRI_Sub_091-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_091/SRI_Sub_091-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_091/SRI_Sub_091-flair.nii.gz"
+            ],
+            "name": "Sub_091"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_047/SRI_Sub_047-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_047/SRI_Sub_047-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_047/SRI_Sub_047-flair.nii.gz"
+            ],
+            "name": "Sub_047"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_085/SRI_Sub_085-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_085/SRI_Sub_085-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_085/SRI_Sub_085-flair.nii.gz"
+            ],
+            "name": "Sub_085"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_106/SRI_Sub_106-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_106/SRI_Sub_106-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_106/SRI_Sub_106-flair.nii.gz"
+            ],
+            "name": "Sub_106"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_038/SRI_Sub_038-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_038/SRI_Sub_038-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_038/SRI_Sub_038-flair.nii.gz"
+            ],
+            "name": "Sub_038"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_053/SRI_Sub_053-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_053/SRI_Sub_053-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_053/SRI_Sub_053-flair.nii.gz"
+            ],
+            "name": "Sub_053"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_100/SRI_Sub_100-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_100/SRI_Sub_100-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_100/SRI_Sub_100-flair.nii.gz"
+            ],
+            "name": "Sub_100"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_092/SRI_Sub_092-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_092/SRI_Sub_092-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_092/SRI_Sub_092-flair.nii.gz"
+            ],
+            "name": "Sub_092"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_105/SRI_Sub_105-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_105/SRI_Sub_105-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_105/SRI_Sub_105-flair.nii.gz"
+            ],
+            "name": "Sub_105"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_041/SRI_Sub_041-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_041/SRI_Sub_041-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_041/SRI_Sub_041-flair.nii.gz"
+            ],
+            "name": "Sub_041"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_078/SRI_Sub_078-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_078/SRI_Sub_078-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_078/SRI_Sub_078-flair.nii.gz"
+            ],
+            "name": "Sub_078"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_052/SRI_Sub_052-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_052/SRI_Sub_052-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_052/SRI_Sub_052-flair.nii.gz"
+            ],
+            "name": "Sub_052"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_104/SRI_Sub_104-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_104/SRI_Sub_104-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_104/SRI_Sub_104-flair.nii.gz"
+            ],
+            "name": "Sub_104"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_066/SRI_Sub_066-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_066/SRI_Sub_066-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_066/SRI_Sub_066-flair.nii.gz"
+            ],
+            "name": "Sub_066"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_030/SRI_Sub_030-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_030/SRI_Sub_030-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_030/SRI_Sub_030-flair.nii.gz"
+            ],
+            "name": "Sub_030"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_097/SRI_Sub_097-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_097/SRI_Sub_097-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_097/SRI_Sub_097-flair.nii.gz"
+            ],
+            "name": "Sub_097"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_118/SRI_Sub_118-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_118/SRI_Sub_118-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_118/SRI_Sub_118-flair.nii.gz"
+            ],
+            "name": "Sub_118"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_102/SRI_Sub_102-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_102/SRI_Sub_102-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_102/SRI_Sub_102-flair.nii.gz"
+            ],
+            "name": "Sub_102"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_065/SRI_Sub_065-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_065/SRI_Sub_065-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_065/SRI_Sub_065-flair.nii.gz"
+            ],
+            "name": "Sub_065"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_055/SRI_Sub_055-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_055/SRI_Sub_055-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_055/SRI_Sub_055-flair.nii.gz"
+            ],
+            "name": "Sub_055"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_039/SRI_Sub_039-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_039/SRI_Sub_039-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_039/SRI_Sub_039-flair.nii.gz"
+            ],
+            "name": "Sub_039"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_036/SRI_Sub_036-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_036/SRI_Sub_036-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_036/SRI_Sub_036-flair.nii.gz"
+            ],
+            "name": "Sub_036"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_071/SRI_Sub_071-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_071/SRI_Sub_071-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_071/SRI_Sub_071-flair.nii.gz"
+            ],
+            "name": "Sub_071"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_051/SRI_Sub_051-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_051/SRI_Sub_051-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_051/SRI_Sub_051-flair.nii.gz"
+            ],
+            "name": "Sub_051"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_035/SRI_Sub_035-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_035/SRI_Sub_035-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_035/SRI_Sub_035-flair.nii.gz"
+            ],
+            "name": "Sub_035"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_026/SRI_Sub_026-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_026/SRI_Sub_026-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_026/SRI_Sub_026-flair.nii.gz"
+            ],
+            "name": "Sub_026"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_040/SRI_Sub_040-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_040/SRI_Sub_040-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_040/SRI_Sub_040-flair.nii.gz"
+            ],
+            "name": "Sub_040"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_046/SRI_Sub_046-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_046/SRI_Sub_046-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_046/SRI_Sub_046-flair.nii.gz"
+            ],
+            "name": "Sub_046"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_088/SRI_Sub_088-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_088/SRI_Sub_088-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_088/SRI_Sub_088-flair.nii.gz"
+            ],
+            "name": "Sub_088"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_095/SRI_Sub_095-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_095/SRI_Sub_095-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_095/SRI_Sub_095-flair.nii.gz"
+            ],
+            "name": "Sub_095"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_089/SRI_Sub_089-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_089/SRI_Sub_089-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_089/SRI_Sub_089-flair.nii.gz"
+            ],
+            "name": "Sub_089"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_096/SRI_Sub_096-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_096/SRI_Sub_096-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_096/SRI_Sub_096-flair.nii.gz"
+            ],
+            "name": "Sub_096"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_099/SRI_Sub_099-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_099/SRI_Sub_099-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_099/SRI_Sub_099-flair.nii.gz"
+            ],
+            "name": "Sub_099"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_068/SRI_Sub_068-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_068/SRI_Sub_068-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_068/SRI_Sub_068-flair.nii.gz"
+            ],
+            "name": "Sub_068"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_054/SRI_Sub_054-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_054/SRI_Sub_054-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_054/SRI_Sub_054-flair.nii.gz"
+            ],
+            "name": "Sub_054"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_062/SRI_Sub_062-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_062/SRI_Sub_062-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_062/SRI_Sub_062-flair.nii.gz"
+            ],
+            "name": "Sub_062"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_119/SRI_Sub_119-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_119/SRI_Sub_119-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_119/SRI_Sub_119-flair.nii.gz"
+            ],
+            "name": "Sub_119"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_058/SRI_Sub_058-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_058/SRI_Sub_058-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_058/SRI_Sub_058-flair.nii.gz"
+            ],
+            "name": "Sub_058"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_113/SRI_Sub_113-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_113/SRI_Sub_113-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_113/SRI_Sub_113-flair.nii.gz"
+            ],
+            "name": "Sub_113"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_027/SRI_Sub_027-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_027/SRI_Sub_027-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_027/SRI_Sub_027-flair.nii.gz"
+            ],
+            "name": "Sub_027"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_050/SRI_Sub_050-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_050/SRI_Sub_050-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_050/SRI_Sub_050-flair.nii.gz"
+            ],
+            "name": "Sub_050"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_093/SRI_Sub_093-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_093/SRI_Sub_093-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_093/SRI_Sub_093-flair.nii.gz"
+            ],
+            "name": "Sub_093"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_048/SRI_Sub_048-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_048/SRI_Sub_048-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_048/SRI_Sub_048-flair.nii.gz"
+            ],
+            "name": "Sub_048"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_024/SRI_Sub_024-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_024/SRI_Sub_024-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_024/SRI_Sub_024-flair.nii.gz"
+            ],
+            "name": "Sub_024"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_090/SRI_Sub_090-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_090/SRI_Sub_090-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_090/SRI_Sub_090-flair.nii.gz"
+            ],
+            "name": "Sub_090"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_025/SRI_Sub_025-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_025/SRI_Sub_025-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_025/SRI_Sub_025-flair.nii.gz"
+            ],
+            "name": "Sub_025"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_112/SRI_Sub_112-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_112/SRI_Sub_112-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_112/SRI_Sub_112-flair.nii.gz"
+            ],
+            "name": "Sub_112"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_056/SRI_Sub_056-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_056/SRI_Sub_056-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_056/SRI_Sub_056-flair.nii.gz"
+            ],
+            "name": "Sub_056"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_114/SRI_Sub_114-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_114/SRI_Sub_114-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_114/SRI_Sub_114-flair.nii.gz"
+            ],
+            "name": "Sub_114"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_070/SRI_Sub_070-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_070/SRI_Sub_070-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_070/SRI_Sub_070-flair.nii.gz"
+            ],
+            "name": "Sub_070"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_111/SRI_Sub_111-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_111/SRI_Sub_111-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_111/SRI_Sub_111-flair.nii.gz"
+            ],
+            "name": "Sub_111"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_108/SRI_Sub_108-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_108/SRI_Sub_108-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_108/SRI_Sub_108-flair.nii.gz"
+            ],
+            "name": "Sub_108"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_101/SRI_Sub_101-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_101/SRI_Sub_101-t2.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_101/SRI_Sub_101-flair.nii.gz"
+            ],
+            "name": "Sub_101"
+        }
+    ],
+    "t1_t2_data": [
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_069/SRI_Sub_069-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_069/SRI_Sub_069-t2.nii.gz"
+            ],
+            "name": "Sub_069"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_004/SRI_Sub_004-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_004/SRI_Sub_004-t2.nii.gz"
+            ],
+            "name": "Sub_004"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_005/SRI_Sub_005-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_005/SRI_Sub_005-t2.nii.gz"
+            ],
+            "name": "Sub_005"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_020/SRI_Sub_020-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_020/SRI_Sub_020-t2.nii.gz"
+            ],
+            "name": "Sub_020"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_060/SRI_Sub_060-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_060/SRI_Sub_060-t2.nii.gz"
+            ],
+            "name": "Sub_060"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_076/SRI_Sub_076-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_076/SRI_Sub_076-t2.nii.gz"
+            ],
+            "name": "Sub_076"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_072/SRI_Sub_072-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_072/SRI_Sub_072-t2.nii.gz"
+            ],
+            "name": "Sub_072"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_120/SRI_Sub_120-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_120/SRI_Sub_120-t2.nii.gz"
+            ],
+            "name": "Sub_120"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_013/SRI_Sub_013-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_013/SRI_Sub_013-t2.nii.gz"
+            ],
+            "name": "Sub_013"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_087/SRI_Sub_087-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_087/SRI_Sub_087-t2.nii.gz"
+            ],
+            "name": "Sub_087"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_083/SRI_Sub_083-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_083/SRI_Sub_083-t2.nii.gz"
+            ],
+            "name": "Sub_083"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_016/SRI_Sub_016-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_016/SRI_Sub_016-t2.nii.gz"
+            ],
+            "name": "Sub_016"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_017/SRI_Sub_017-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_017/SRI_Sub_017-t2.nii.gz"
+            ],
+            "name": "Sub_017"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_075/SRI_Sub_075-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_075/SRI_Sub_075-t2.nii.gz"
+            ],
+            "name": "Sub_075"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_015/SRI_Sub_015-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_015/SRI_Sub_015-t2.nii.gz"
+            ],
+            "name": "Sub_015"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_029/SRI_Sub_029-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_029/SRI_Sub_029-t2.nii.gz"
+            ],
+            "name": "Sub_029"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_006/SRI_Sub_006-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_006/SRI_Sub_006-t2.nii.gz"
+            ],
+            "name": "Sub_006"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_028/SRI_Sub_028-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_028/SRI_Sub_028-t2.nii.gz"
+            ],
+            "name": "Sub_028"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_009/SRI_Sub_009-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_009/SRI_Sub_009-t2.nii.gz"
+            ],
+            "name": "Sub_009"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_008/SRI_Sub_008-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_008/SRI_Sub_008-t2.nii.gz"
+            ],
+            "name": "Sub_008"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_121/SRI_Sub_121-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_121/SRI_Sub_121-t2.nii.gz"
+            ],
+            "name": "Sub_121"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_081/SRI_Sub_081-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_081/SRI_Sub_081-t2.nii.gz"
+            ],
+            "name": "Sub_081"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_010/SRI_Sub_010-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_010/SRI_Sub_010-t2.nii.gz"
+            ],
+            "name": "Sub_010"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_098/SRI_Sub_098-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_098/SRI_Sub_098-t2.nii.gz"
+            ],
+            "name": "Sub_098"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_007/SRI_Sub_007-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_007/SRI_Sub_007-t2.nii.gz"
+            ],
+            "name": "Sub_007"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_011/SRI_Sub_011-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_011/SRI_Sub_011-t2.nii.gz"
+            ],
+            "name": "Sub_011"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_084/SRI_Sub_084-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_084/SRI_Sub_084-t2.nii.gz"
+            ],
+            "name": "Sub_084"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_002/SRI_Sub_002-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_002/SRI_Sub_002-t2.nii.gz"
+            ],
+            "name": "Sub_002"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_019/SRI_Sub_019-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_019/SRI_Sub_019-t2.nii.gz"
+            ],
+            "name": "Sub_019"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_074/SRI_Sub_074-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_074/SRI_Sub_074-t2.nii.gz"
+            ],
+            "name": "Sub_074"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_014/SRI_Sub_014-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_014/SRI_Sub_014-t2.nii.gz"
+            ],
+            "name": "Sub_014"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_073/SRI_Sub_073-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_073/SRI_Sub_073-t2.nii.gz"
+            ],
+            "name": "Sub_073"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_022/SRI_Sub_022-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_022/SRI_Sub_022-t2.nii.gz"
+            ],
+            "name": "Sub_022"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_077/SRI_Sub_077-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_077/SRI_Sub_077-t2.nii.gz"
+            ],
+            "name": "Sub_077"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_018/SRI_Sub_018-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_018/SRI_Sub_018-t2.nii.gz"
+            ],
+            "name": "Sub_018"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_012/SRI_Sub_012-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_012/SRI_Sub_012-t2.nii.gz"
+            ],
+            "name": "Sub_012"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_003/SRI_Sub_003-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_003/SRI_Sub_003-t2.nii.gz"
+            ],
+            "name": "Sub_003"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_082/SRI_Sub_082-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_082/SRI_Sub_082-t2.nii.gz"
+            ],
+            "name": "Sub_082"
+        }
+    ],
+    "t1_flair_data": [
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_063/SRI_Sub_063-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_063/SRI_Sub_063-flair.nii.gz"
+            ],
+            "name": "Sub_063"
+        }
+    ],
+    "t1_data": [
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_045/SRI_Sub_045-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_045/SRI_Sub_045-t1.nii.gz"
+            ],
+            "name": "Sub_045"
+        },
+        {
+            "image": [
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_079/SRI_Sub_079-t1.nii.gz",
+                "/home/ssd/wanghaifeng/Data/BraTS_first1/Sub_079/SRI_Sub_079-t1.nii.gz"
+            ],
+            "name": "Sub_079"
+        }
+    ]
+}
